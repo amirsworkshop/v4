@@ -1,6 +1,6 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
+title: 'Coffee Table'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:

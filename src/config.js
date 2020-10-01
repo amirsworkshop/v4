@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'info@amir-asadirad.com',
 
   socialMedia: [
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.instagram.com/amirs_workshop/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/amirs_workshop/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.instagram.com/amirs_workshop/',
     },
   ],
 
   navLinks: [
-    {
-      name: 'About',
-      url: '/#about',
-    },
+    // {
+    //   name: 'About',
+    //   url: '/#about',
+    // },
     // {
     //   name: 'Experience',
     //   url: '/#jobs',
