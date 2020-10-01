@@ -8,4 +8,5 @@ package-lock.json
 npm run deploypublic
 .DS_Store
 
+public
 .vscode/
