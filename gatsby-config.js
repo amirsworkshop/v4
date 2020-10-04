@@ -4,9 +4,15 @@ module.exports = {
   pathPrefix: '/',
   siteMetadata: {
     title: 'Amir's Workshop',
-    description:
-      'Amir's Workshop started in May 2020. At the peak of Covid-19 pendamic, I wanted to start my woodworking shop: A long overdue project that I never had time to start. 
-    My childhood memories are full of times that I used to Play with dad's tools. Discuverying the use of each tool was my absolute fun time. Mostly by accident, I leaned how to handle tools and what's the best way to  was an ambitous guy and perfectionist woodworker. Growring up in the beautiful  , // No trailing slash allowed!
+    dDescription:
+    '"Amir's Workshop" started in April 2020, at the peak of Covid-19 pendamic in Canada. I finally had a plenty of free times to start my dream shop: A long overdue project that I never had time to begin.' 
+    Growing up at the hillsides of Alborz mountains in the city of Karaj, Iran, I had acess to my dad's workshop
+    My childhood memories are full of fresh smell of woods and the times that I used to Play with my dad's tools at his workshop. discovering the use of tools was my favourit game. I admit, this discoveries 
+    wasn't without pain. Sometimes I used to hurt myself. However, later I learned, that my dad used to watch me from the corner of his eyes, and was ready to jump and save me, whether th situation was
+    going out of contorl. Later when I pikced up some skills, my dad showed me tricks and techniques that I still use today. The first and the foremost lesson was to be PATIENT.
+    At some points things become spontaneose and screativiy kicked in. I become a good observour of the mother nature, and get inspired from sroundings. Living in Vancouver, Canada,
+    I am absolutyl blessed to have access gorgeous forests of British Columbia. The fresh smell of woods after rain, is a reminder of childhood.  
+    dad . Mostly by accident, I leaned how to handle tools and what's the best way to  was an ambitous guy and perfectionist woodworker.  , // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
