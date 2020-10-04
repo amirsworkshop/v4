@@ -3,10 +3,10 @@ const config = require('./src/config');
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: 'Amirs Workshop',
+    title: 'Amir's Workshop',
     description:
-      'Amir Workshop is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Amir's Workshop started in May 2020. At the peak of Covid-19 pendamic, I wanted to start my woodworking shop: A long overdue project that I never had time to start. 
+    My childhood memories are full of times that I used to Play with dad's tools. Discuverying the use of each tool was my absolute fun time. Mostly by accident, I leaned how to handle tools and what's the best way to  was an ambitous guy and perfectionist woodworker. Growring up in the beautiful  , // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
