@@ -5,16 +5,23 @@ module.exports = {
   siteMetadata: {
     title: 'Amir's Workshop',
     dDescription:
-    '"Amir's Workshop" started in April 2020, at the peak of Covid-19 pendamic in Canada. I finally had a plenty of free times to start my dream shop: A long overdue project that I never had time to begin.' 
-    Growing up at the hillsides of Alborz mountains in the city of Karaj, Iran, I had acess to my dad's workshop
-    My childhood memories are full of fresh smell of woods and the times that I used to Play with my dad's tools at his workshop. discovering the use of tools was my favourit game. I admit, this discoveries 
-    wasn't without pain. Sometimes I used to hurt myself. However, later I learned, that my dad used to watch me from the corner of his eyes, and was ready to jump and save me, whether th situation was
-    going out of contorl. Later when I pikced up some skills, my dad showed me tricks and techniques that I still use today. The first and the foremost lesson was to be PATIENT.
-    At some points things become spontaneose and screativiy kicked in. I become a good observour of the mother nature, and get inspired from sroundings. Living in Vancouver, Canada,
-    I am absolutyl blessed to have access gorgeous forests of British Columbia. The fresh smell of woods after rain, is a reminder of childhood.  
-    dad . Mostly by accident, I leaned how to handle tools and what's the best way to  was an ambitous guy and perfectionist woodworker.  , // No trailing slash allowed!
+    '"Amir''s Workshop" started in April 2020 at the peak of Covid-19 pendamic in Vancouver, Canada. The Work-from-home situation provided me with a golden opportunity.'
+    'I didn''t have to commute to work and with extra couples of hours in hands, I could finaly start my dream: building my workshop from the ground up. A long overdue'
+    'project that I have never had time to begin.'
+    
+    'Growing up at the hillsides of Alborz mountains in the city of Karaj, Iran, I always had access to my dad''s workshop, and I could run my projects at his shop. However, after'
+    'moving to Canada, I left all those behind. And it was the time to start my own workshop.'
+    
+    'My childhood memories are full of fresh smell of woods, and the times that I used to play with my dad''s tools at his workshop. Discovering the use of tools was my favourit game.'
+    'I admit, these serendipities weren''t always pain-free. Sometimes I used to hurt myself. However, later I learned, that my dad used to watch me from the corner of his eyes,'
+    'and was ready to jump and save me, whether the situation was going out of contorl. When I pikced up some skills becoem more comfortable around power tools, he used to showed me'
+    'tricks and techniques that I still use today. The first and the foremost lesson was to be PATIENT.
+    
+    'At some points, things become spontaneose and creativiy kicked in. I become a good observour the mother nature. Paying extra attentions to the harmony of the nature helped me to get'
+    'inspired with my projects. I am  blessed to have access to the gorgeous forests of British Columbia, which helps thriving my inspiration and creativity.'
+    // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    Instagram: '@Amir''s Workshop',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
